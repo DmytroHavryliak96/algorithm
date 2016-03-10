@@ -1,1 +1,2 @@
 It's my new file.
+The weather is fine today!
