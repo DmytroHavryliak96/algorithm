@@ -1,2 +1,7 @@
 It's my new file.
+<<<<<<< HEAD
 The weather is fine today!
+What a wonderful day!
+=======
+What a wonderful day!
+>>>>>>> master
